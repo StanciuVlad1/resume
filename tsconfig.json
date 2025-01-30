@@ -1,5 +1,4 @@
-git remote add origin https://github.com/StanciuVlad1/resume.git
-git push -u origin main{
+{
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
